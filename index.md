@@ -21,12 +21,7 @@ Develop at least one version Mastermind in the language of your choice. Each gam
 
 If players chose to do it in a language they are not familiar with, another challange then involes learning the new langauge.
 
-## ○ List of languages used:
-* Java
 
-## ○ Java
-
-By Caroline Del Carmen. Java level: Beginner, first time using Java.
 
 I used Java 14 to write a program that allows an user to play Mastermind against a bot.
 You can check out https://github.com/cmdelcarmen/mastermind-hack-day for how to install and play.
@@ -66,7 +61,8 @@ Things I found useful about using Java:<br>
   - ``String.valueOf()`` -> Casting to a variable to a string
   - ``.substring(<range>)`` -> Getting a specific index of a string withing a range
   - ``.charAt(<index>)`` -> Getting a number at a specific index of an integer
-  - A resemblance to C, which made me able to pick it up faster. 
+* A resemblance to C, which made me able to pick it up faster. 
+* Objects
 
-### ○ Contributors and languages used:
-* Caroline Del Carmen C14 Github: cmdelcarmen - Java 14
+
+### By Caroline Del Carmen. Java level: Beginner, first time using Java.
