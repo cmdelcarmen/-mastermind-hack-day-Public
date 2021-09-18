@@ -45,3 +45,5 @@ Note: Please make sure you have java downloaded. The command ```java --version``
 ## Github Page
 
 https://cmdelcarmen.github.io/mastermind-hack-day/
+
+By Caroline Del Carmen. Java level: Beginner, first time using Java.
